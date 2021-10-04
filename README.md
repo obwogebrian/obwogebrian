@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obwogebrian
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, css, sql...
 - 💞️ I’m looking to collaborate on makingg a website
 - 📫 How to reach me ...
 Email-obwogebrian10@gmail.com
